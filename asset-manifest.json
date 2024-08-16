@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samplereact/static/css/main.e6c13ad2.css",
+    "main.js": "/samplereact/static/js/main.3dd4dda9.js",
+    "static/js/453.e6329ab4.chunk.js": "/samplereact/static/js/453.e6329ab4.chunk.js",
+    "index.html": "/samplereact/index.html",
+    "main.e6c13ad2.css.map": "/samplereact/static/css/main.e6c13ad2.css.map",
+    "main.3dd4dda9.js.map": "/samplereact/static/js/main.3dd4dda9.js.map",
+    "453.e6329ab4.chunk.js.map": "/samplereact/static/js/453.e6329ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3dd4dda9.js"
+  ]
+}
